@@ -1,0 +1,107 @@
+
+.author {
+    font-weight: bold;
+}
+.box-3 {
+    min-height: 100vh;
+    border: 2px solid black;
+    margin: 20px 20px 20px 20px;
+}
+
+.blue {
+    background-color:#add8e6;
+}
+
+.button-1 {
+    border:none;
+    display: block;
+    letter-spacing: 2;
+    margin:0 auto;
+    margin-top:15px;
+    padding:5px;
+    width: 70%;
+}
+
+
+.date {
+    color:gray
+}
+
+.eggwhite {
+    background-color: azure;
+}
+
+.email {
+    margin-top: 35px;
+    margin-left: 15px;
+    font-size: 14px;
+    padding: 25px;
+    padding-right: 10px;
+    overflow:hidden;
+
+}
+
+.from {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.inbox {
+    font-weight:bold;
+}
+
+.input {
+    border: none;
+    padding: 7px;
+    width: 400px;
+}
+
+.left-container-options{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.message-content {
+color:grey;
+}
+
+.open {
+box-shadow: 20px 20px 50px grey;
+background-color: #d2f1fc;
+}
+
+.overflow-elipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.reading {
+    font-size: 14px;
+}
+
+.search-area {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.welcome-line {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.welcome-line h6 {
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.white {
+    background-color: white;
+}
+
