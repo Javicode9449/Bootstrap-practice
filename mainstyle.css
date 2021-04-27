@@ -2,14 +2,15 @@
 .author {
     font-weight: bold;
 }
-.box-3 {
-    min-height: 100vh;
-    border: 2px solid black;
-    margin: 20px 20px 20px 20px;
-}
 
 .blue {
     background-color:#add8e6;
+}
+
+.box-3 {
+    min-height: 100vh;
+    margin: 20px 20px 20px 20px;
+    padding: 20px;   
 }
 
 .button-1 {
@@ -19,7 +20,7 @@
     margin:0 auto;
     margin-top:15px;
     padding:5px;
-    width: 70%;
+    width: 100%;
 }
 
 
@@ -86,6 +87,7 @@ background-color: #d2f1fc;
     margin-top: 15px;
     margin-right: 10px;
 }
+
 
 .welcome-line {
     display:flex;
